@@ -49,3 +49,8 @@ while True:
         elif(user_choice=='exit' or user_choice=='EXIT' or user_choice=='Exit'):
             print("THANKS FOR PLAYING THE GAME")
             break
+            
+            
+            
+            
+      #Thanks for playing our Game
